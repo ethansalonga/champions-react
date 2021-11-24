@@ -8,6 +8,7 @@ import Champs from "./pages/Champs";
 import { champs } from "./data";
 import ChampInfo from "./pages/ChampInfo";
 import Cart from "./pages/Cart";
+import About from "./pages/About";
 
 function App() {
   const [cart, setCart] = useState([]);
@@ -69,6 +70,7 @@ function App() {
               />
             }
           />
+          <Route path="/about" element={<About />} />
         </Routes>
         <Footer />
       </div>

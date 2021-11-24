@@ -16,9 +16,9 @@ const Footer = () => {
             <Link to="/" className="footer__link">
               Home
             </Link>
-            <span href="" className="footer__link no-cursor">
+            <Link to="/about" className="footer__link">
               About
-            </span>
+            </Link>
             <Link to="/champs" className="footer__link">
               Champs
             </Link>
