@@ -249,9 +249,6 @@ header {
 
 .header__img--wrapper {
   padding: 20px;
-
-  /* Added this after the tutorial to 
-  show it over the wave on larger screens */
   z-index: 50;
   margin: 0 auto;
 }
@@ -260,6 +257,7 @@ header {
   max-width: 380px;
   height: auto;
 }
+
 .container {
   padding: 56px 0;
 }
@@ -825,5 +823,23 @@ select {
   }
   .cart__champ--info {
     padding-left: 0;
+  }
+
+  h1 {
+    font-size: 32px;
+    margin-top: 16px;
+  }
+
+  .header__img {
+    max-width: 280px;
+    height: auto;
+  }
+
+  .champs__header {
+    padding: 0;
+  }
+
+  .champs__header--title {
+    font-size: 22px;
   }
 }

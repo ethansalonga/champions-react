@@ -45,18 +45,7 @@ const ChampInfo = ({ champs, addToCart, cart }) => {
                 </div>
                 <div className="champ__summary">
                   <h3 className="champ__summary--title">Summary</h3>
-                  <p className="champ__summary--para">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Accusantium illo modi dicta quia sed quae exercitationem ad
-                    perspiciatis, unde incidunt laborum, natus ducimus, non
-                    dolorem veritatis assumenda qui culpa! Culpa?
-                  </p>
-                  <p className="champ__summary--para">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Accusantium illo modi dicta quia sed quae exercitationem ad
-                    perspiciatis, unde incidunt laborum, natus ducimus, non
-                    dolorem veritatis assumenda qui culpa! Culpa?
-                  </p>
+                  <p className="champ__summary--para">{champ.summary}</p>
                 </div>
                 {champExistsOnCart() ? (
                   <Link to={`/cart`} className="champ__link">

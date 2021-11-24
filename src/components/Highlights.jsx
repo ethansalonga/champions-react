@@ -14,7 +14,7 @@ const Highlights = () => {
             <Highlight
               icon={<FontAwesomeIcon icon="bolt" />}
               title="Easy and Quick"
-              para="Get access to the champ you purchased online instantly."
+              para="Get access to the champ you just recruited instantly."
             />
             <Highlight
               icon={<FontAwesomeIcon icon="users" />}

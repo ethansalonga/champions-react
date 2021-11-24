@@ -9,7 +9,7 @@ const Landing = () => {
           <div className="header__description">
             <h1>Runeterra's most awarded recruiting platform</h1>
             <h2>Find your dream champ with <span className="blue">Champions</span></h2>
-            <a href="#features">
+            <a href="#highlights">
               <button className="btn">Browse champs</button>
             </a>
           </div>
