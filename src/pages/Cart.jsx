@@ -51,8 +51,7 @@ const Cart = ({ cart, changeQuantity, removeItem }) => {
                       </div>
                       <div className="cart__quantity">
                         <input
-                          type="text"
-                          pattern="[0-9]*"
+                          type="number"
                           min={1}
                           max={99}
                           className="cart__input"
