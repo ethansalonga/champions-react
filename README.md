@@ -21,3 +21,4 @@
 * Functional sorting by price (low to high / high to low) or rating
 * Recommended champs showcases 5-star rated selections
 * Dynamically updating cart with quantities and price totals (Quantities not logical with theme, but left in final project to showcase its functionality)
+* Final app and subsequent edits connected and deployed to Heroku
