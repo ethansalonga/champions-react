@@ -843,4 +843,8 @@ select {
   .champs__header--title {
     font-size: 22px;
   }
+
+  .cart__champ--remove {
+    z-index: 20;
+  }
 }
