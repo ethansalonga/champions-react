@@ -3,7 +3,7 @@ export const champs = [
   {
     id: 1,
     title: "Jinx, the Loose Cannon",
-    url: "https://i.ibb.co/6D2fsD2/champ-1.jpg",
+    url: "https://i.imgur.com/X2sx2sD.jpg",
     originalPrice: 4800,
     salePrice: 2880,
     rating: 5,
