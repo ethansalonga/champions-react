@@ -13,7 +13,7 @@ export const champs = [
   {
     id: 2,
     title: "Vi, the Piltover Enforcer",
-    url: "https://i.ibb.co/6WmC3Y0/champ-2.jpg",
+    url: "https://i.imgur.com/DXTw8bq.jpg",
     originalPrice: 4800,
     salePrice: 2880,
     rating: 5,
@@ -23,7 +23,7 @@ export const champs = [
   {
     id: 3,
     title: "Jayce, the Defender of Tomorrow",
-    url: "https://i.ibb.co/p450j1q/champ-3.jpg",
+    url: "https://i.imgur.com/BvFSEls.jpg",
     originalPrice: 4800,
     salePrice: null,
     rating: 5,
@@ -33,7 +33,7 @@ export const champs = [
   {
     id: 4,
     title: "Caitlyn, the Sheriff of Piltover",
-    url: "https://i.ibb.co/FH607qm/champ-4.jpg",
+    url: "https://i.imgur.com/nYgFrbo.jpg",
     originalPrice: 4800,
     salePrice: 2880,
     rating: 5,
@@ -43,7 +43,7 @@ export const champs = [
   {
     id: 5,
     title: "Ekko, the Boy Who Shattered Time",
-    url: "https://i.ibb.co/tpD6SVj/champ-5.jpg",
+    url: "https://i.imgur.com/BEBrMWA.jpg",
     originalPrice: 4800,
     salePrice: 2880,
     rating: 5,
@@ -53,7 +53,7 @@ export const champs = [
   {
     id: 6,
     title: "Singed, the Mad Chemist",
-    url: "https://i.ibb.co/7294Lrk/champ-6.jpg",
+    url: "https://i.imgur.com/5r7FQcj.jpg",
     originalPrice: 450,
     salePrice: null,
     rating: 4,
@@ -63,7 +63,7 @@ export const champs = [
   {
     id: 7,
     title: "Heimerdinger, the Revered Inventor",
-    url: "https://i.ibb.co/VS50MBh/champ-7.jpg",
+    url: "https://i.imgur.com/MSQByJ3.jpg",
     originalPrice: 3150,
     salePrice: 1890,
     rating: 4.5,
@@ -73,7 +73,7 @@ export const champs = [
   {
     id: 8,
     title: "Viktor, the Machine Herald",
-    url: "https://i.ibb.co/nDNRWCS/champ-8.jpg",
+    url: "https://i.imgur.com/FrCneVl.jpg",
     originalPrice: 4800,
     salePrice: 2880,
     rating: 4.5,
@@ -83,7 +83,7 @@ export const champs = [
   {
     id: 9,
     title: "Ahri, the Nine-Tailed Fox",
-    url: "https://i.ibb.co/XSWMmMY/champ-9.jpg",
+    url: "https://i.imgur.com/BA08TX7.jpg",
     originalPrice: 3150,
     salePrice: 1890,
     rating: 4.5,
@@ -93,7 +93,7 @@ export const champs = [
   {
     id: 10,
     title: "Zoe, the Aspect of Twilight",
-    url: "https://i.ibb.co/PgS47R9/champ-10.jpg",
+    url: "https://i.imgur.com/ZLYu85v.jpg",
     originalPrice: 6300,
     salePrice: null,
     rating: 4.5,
@@ -103,7 +103,7 @@ export const champs = [
   {
     id: 11,
     title: "Tristana, the Yordle Gunner",
-    url: "https://i.ibb.co/6WBdrbn/champ-11.jpg",
+    url: "https://i.imgur.com/k9ET1BI.jpg",
     originalPrice: 1350,
     salePrice: 810,
     rating: 4.5,
@@ -113,7 +113,7 @@ export const champs = [
   {
     id: 12,
     title: "Nasus, the Curator of the Sands",
-    url: "https://i.ibb.co/dLvjZDF/champ-12.jpg",
+    url: "https://i.imgur.com/JuloSTy.jpg",
     originalPrice: 1350,
     salePrice: 810,
     rating: 4.5,
